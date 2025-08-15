@@ -10,9 +10,8 @@ body {
     max-width: 600px;
     margin: 40px auto;
     padding: 0 20px;
-    background: white;
+    background: #f2f5f7;
     border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
 }
 .header {
     text-align: center;
@@ -110,12 +109,14 @@ p {
 }
 .manager-box {
     margin: 30px 0;
+    padding: 20px;
     border-radius: 6px;
+    background: #ffffff;
 }
 .manager-box h3 {
     margin: 0 0 10px 0;
     font-size: 16px;
-    color: #ffffff;
+    color: #000000;
 }
 .manager-box p {
     margin: 0 0 10px 0;
@@ -123,7 +124,7 @@ p {
 }
 .contact {
     display: flex;
-    justify-content: center;
+    justify-content: start;
     gap: 20px;
 }
 .contact-item {
@@ -135,7 +136,7 @@ p {
     width: 16px;
     height: 16px;
     margin-right: 8px;
-    color: #ffffff;
+    color: #000000;
 }
 .email {
     color: #8668ad;
@@ -143,18 +144,20 @@ p {
 }
 .app-banner {
     border-radius: 6px;
+    padding: 20px;
     margin: 30px 0;
     position: relative;
+    background: #ffffff;
 }
 .app-banner h3 {
     margin: 0 0 10px 0;
     font-size: 18px;
-    color: #ffffff;
+    color: #000000;
 }
 .app-banner p {
     margin: 0 0 15px 0;
     font-size: 15px;
-    color: #ffffff;
+    color: #000000;
 }
 .app-buttons-container {
     display: flex;
@@ -167,9 +170,10 @@ p {
 
 .app-buttons {
     display: flex;
-    justify-content: center;
-    gap: 15px;
-    margin-right: 0;
+    gap: 25px;
+}
+.app-buttons a{
+    color: #000000;
 }
 
 
@@ -201,7 +205,7 @@ p {
     background: #191919;
     border-top: 1px solid #eee;
 }
-.footer a {
+a {
     color: #8668ad;
     text-decoration: none;
 }
