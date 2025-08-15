@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7cec1e6-6139-40d6-a178-0607099a9e78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/asleep-app.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/logo-light.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755251369403</updated>
-      <workItem from="1755251370963" duration="5628000" />
+      <workItem from="1755251370963" duration="7831000" />
     </task>
     <servers />
   </component>
